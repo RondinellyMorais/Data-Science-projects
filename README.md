@@ -8,3 +8,7 @@ O código original do notebook "game sales" pode ser encontrado no site kaggle
 [https://www.kaggle.com/rondinellyoliveira/an-lise-de-venda-de-games/edit](https://www.kaggle.com/rondinellyoliveira/an-lise-de-venda-de-games/edit)
 
 O código original do notebook "Individual company sales" pode ser encontrado no site kaggle [https://www.kaggle.com/rondinellyoliveira/individual-company-sales/edit](https://www.kaggle.com/rondinellyoliveira/individual-company-sales/edit)
+
+O código original do notebook "car-price-analyze-and-prediction" pode ser encontrado no site kaggle [https://www.kaggle.com/rondinellyoliveira/car-price-analyze-and-prediction/edit](https://www.kaggle.com/rondinellyoliveira/car-price-analyze-and-prediction/edit). O data que usamos se encontra nesse repositório nomeado como "CarPrice_Assignment".
+
+
