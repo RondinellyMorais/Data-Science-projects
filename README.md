@@ -12,5 +12,3 @@ O código original do notebook "Individual company sales" pode ser encontrado no
 
 O código original do notebook "car-price-analyze-and-prediction" pode ser encontrado no site kaggle [https://www.kaggle.com/rondinellyoliveira/car-price-analyze-and-prediction/edit](https://www.kaggle.com/rondinellyoliveira/car-price-analyze-and-prediction/edit). O dataset que usamos nesse notebook se encontra nesse repositório nomeado como "CarPrice_Assignment".
 
-
-[http://localhost:8888/notebooks/car-price-analyze-and-prediction.ipynb](http://localhost:8888/notebooks/car-price-analyze-and-prediction.ipynb)
