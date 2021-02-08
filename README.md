@@ -1,3 +1,4 @@
+
 # Data Science projects
  Esses notebooks apresentam análise exploratória básica de dados onde atráves de estátistica básica e gráficos podemos obter insights inportantes sobre os dados presentes nos datasets. Criamos modelos de previsão de machine learning, usando diversos algoritimos para esse objetivo. Com esses notebooks pretendemos compilar modelos exploratórios de dados com aplicação na solução de diversos problemas empresarias. Não só isso, mas tornar o modelo de negocio mais eficiente. 
  
